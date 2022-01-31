@@ -18,7 +18,7 @@ We aim to save up atleast 80% percent of the water drained out from the purifier
 ## Presentation
 [Google Sheets LINK](https://docs.google.com/presentation/d/18mGyQy8uOcH5FHGjTRlvocpN2FBsgukDoEKiUFFM4js/edit?usp=sharing)
 
-##Software 
+## Software 
 We have used Proteus to design and simulate the circuit with Arduino IDE to make the .hex file.
 
 
